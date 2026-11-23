@@ -1,5 +1,3 @@
-Aquí tienes una propuesta completa y lista para copiar y pegar en tu archivo `README.md`. Está redactada en formato Markdown para que se vea bien estructurada en GitHub.
-
 # Aprendiendo Git y GitHub
 
 Este repositorio documenta mis primeros pasos utilizando **Git** para el control de versiones y **GitHub** para alojar el código en la nube, realizando todo el flujo de trabajo directamente desde la terminal.
