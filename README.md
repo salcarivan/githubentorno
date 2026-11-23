@@ -1,10 +1,10 @@
 Aquí tienes una propuesta completa y lista para copiar y pegar en tu archivo `README.md`. Está redactada en formato Markdown para que se vea bien estructurada en GitHub.
 
-# 🚀 Aprendiendo Git y GitHub
+# Aprendiendo Git y GitHub
 
 Este repositorio documenta mis primeros pasos utilizando **Git** para el control de versiones y **GitHub** para alojar el código en la nube, realizando todo el flujo de trabajo directamente desde la terminal.
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 El entorno de trabajo local se encuentra en la carpeta `githubentorno` y contiene los siguientes archivos:
 
@@ -16,7 +16,7 @@ githubentorno/
 
 ---
 
-## 🛠️ Proceso y comandos utilizados
+## Proceso y comandos utilizados
 
 A continuación se detallan los comandos ejecutados paso a paso desde la inicialización del repositorio hasta la subida del primer _commit_ a GitHub:
 
@@ -62,7 +62,7 @@ _(Nota: Si se creó como privado, se utilizó `--private` en lugar de `--public`
 
 ---
 
-## 🔍 Comandos útiles de verificación
+## Comandos útiles de verificación
 
 Durante el proceso, estos comandos sirven para comprobar que todo está en orden:
 
